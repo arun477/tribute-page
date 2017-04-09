@@ -1,0 +1,66 @@
+body,html{
+  margin:0;
+  height:100%;
+
+}
+.back{
+  background-image:url("https://images.pexels.com/photos/625/field-summer-sun-meadow.jpg?w=940&h=650&auto=compress&cs=tinysrgb");
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:cover;
+  height:100%
+
+}
+#head{
+  opacity:0.5;
+  text-align:left;
+  margin:auto;
+  padding:30px;
+  font-family:"Comic Sans MS", cursive, sans-serif;
+  text-shadow:33px 33px;
+}
+#head2{font-family:"Comic Sans MS", cursive, sans-serif;
+opacity:0.5;}
+
+#humming{
+  opacity:0.4;
+  height:250px;
+  weidht:250px;
+  margin:30px;
+  color:#cc0088;
+}
+
+#img_container {
+    position:relative;
+    display:inline-block;
+    text-align:center;
+
+
+}
+
+.button {
+
+    position:relative;
+    bottom:-80px;
+    right:160px;
+    width:120px;
+    height:50px;
+  opacity:0.9;
+    -webkit-transition: box-shadow 1s ease;
+	transition: box-shadow 1s ease;
+  background: linear-gradient(45deg, rgba(255,184,115,0.65) 0%,rgba(255,124,189,0.65) 50%,rgba(108,0,153,0.65) 100%);
+	border-radius: 2px;
+	box-shadow: 0px 2px 4px rgba(34,62,66,.25);
+  color: #fff;
+  font-size: 18px;
+  letter-spacing: 1px;
+}
+#lin{
+  color:#ffffff;
+  text-decoration:none;
+}
+#foot{
+  font-size:20px;
+  margin-bottom:auto;
+
+}
